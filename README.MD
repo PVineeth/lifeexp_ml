@@ -2,7 +2,7 @@
 
 **Kaggle Dataset**
 
-- [ ] Data Exploration 
-- [ ] Data Analysis I
+- [ X ] Data Exploration 
+- [ X ] Data Analysis I
 - [ ] Data Analysis II
 - [ ] Predictive Analysis
