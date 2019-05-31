@@ -4,5 +4,5 @@
 
 - [ X ] Data Exploration 
 - [ X ] Data Analysis I
-- [ ] Data Analysis II
-- [ ] Predictive Analysis
+- [ X ] Data Analysis II
+- [ X ] Predictive Analysis
